@@ -10,7 +10,7 @@ My name is Gautam Taneja and I am currently studying in SRM institute of Science
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gautamtanejaa&theme=dark&hide_border=false)<br/>
-username=Gautamtanejaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gautamtanejaa&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
