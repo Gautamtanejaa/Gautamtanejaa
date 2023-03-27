@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Gautam Taneja and I am currently studying in SRM institute of Science<br>and Technology and I am pursuing my Btech degree in CSE. I am working on a few <br>open source project ideas in python language and i am open to collabs with others<br>to make more interesting open source projects
+My name is Gautam Taneja and I am currently studying in SRM institute of Science<br>and Technology and I am pursuing my Btech degree in CSE. I am working on a few <br>open source project ideas in python language and i am open to collabs with others<br>to make more interesting open source projects.
 
 
 ## 🌐 Socials:
